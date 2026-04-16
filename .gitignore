@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+grade1_outputs/
+*.png
+*.csv
